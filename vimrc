@@ -10,7 +10,8 @@ Plugin 'VundleVim/Vundle.vim'
 
 " 插件begin
 
-Plugin 'vim-airline/vim-airline'
+Plugin 'vim-airline/vim-airline' "下方显示栏
+Plugin 'rust-lang/rust.vim' "rust 插件
 
 " 插件end
 
