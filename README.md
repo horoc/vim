@@ -1,1 +1,10 @@
-ln -s /xxx/xxx/vimrc /xxx/xxx/.vimrc
+# VIM
+
+## 插件
+https://github.com/VundleVim/Vundle.vim
+···shell
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+···
+
+## 配置
+cp vimrc ~/.vimrc
