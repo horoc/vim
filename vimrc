@@ -12,6 +12,7 @@ Plugin 'VundleVim/Vundle.vim'
 
 Plugin 'vim-airline/vim-airline' "下方显示栏
 Plugin 'rust-lang/rust.vim' "rust 插件
+Plugin 'cespare/vim-toml'
 
 " 插件end
 
