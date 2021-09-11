@@ -21,12 +21,15 @@ call vundle#end()
 filetype plugin indent on    " required
 " 插件相关 end
 
+set sw=4
 set tabstop=4
+set softtabstop=4
 set number
 set autoindent
 set hlsearch
 set t_Co=256
 set term=xterm-256color
+set backspace=indent,eol,start
 syntax on
 
 " key map
